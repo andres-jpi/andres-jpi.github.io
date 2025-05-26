@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Andrés Ponce / JPI"
-subtitle: "Artista sonoro y programador creativo"
+subtitle: "Ingeniero , Artista sonoro y programador creativo"
 ---
 
 <!-- Bienvenida -->
