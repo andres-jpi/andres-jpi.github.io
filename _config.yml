@@ -1,0 +1,6 @@
+title: "Andrés Ponce / JPI"
+theme: "minimal-mistakes-jekyll"
+plugins:
+  - jekyll-include-cache
+markdown: kramdown
+highlighter: rouge
