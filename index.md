@@ -3,7 +3,7 @@
 layout: home
 title: "Andrés Ponce"
 subtitle: "Systems Designer · Technologist · Entrepreneur"
-----------------------------------------------------------
+---
 
 # Andrés Ponce
 
