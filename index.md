@@ -77,7 +77,8 @@ Artificial intelligence, cybernetics, distributed systems, digital infrastructur
 
 * [LinkedIn](https://www.linkedin.com/in/andres-ponce-jpi/)
 * [GitHub](https://github.com/andres-jpi)
+* [Llull Systems](https://llull.systems)
 * [Instagram](https://www.instagram.com/andres.jpi)
 * [Bandcamp](https://andres-jpi.bandcamp.com)
 * [L14 Studio](https://www.instagram.com/l14studio)
-* [Email](mailto:anpo.xyz@gmail.com)
+* [Email: anpo.xyz@gmail.com]
