@@ -1,11 +1,13 @@
 ---
 
-layout: home
-title: "Andrés Ponce"
-subtitle: "Systems Designer · Technologist · Entrepreneur"
+layout: single
+title: ""
+permalink: /
 ---
 
 # Andrés Ponce
+
+***Systems Designer · Technologist · Entrepreneur***
 
 I am a Mexican systems designer, technologist and entrepreneur working at the intersection of AI, digital infrastructure, creative technology and civic innovation.
 
