@@ -1,17 +1,15 @@
 title: "Andrés Ponce"
 description: "Systems Designer, Technologist and Entrepreneur"
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: mmistakes/minimal-mistakes
 
 plugins:
-
-* jekyll-remote-theme
-* jekyll-include-cache
+  - jekyll-remote-theme
+  - jekyll-include-cache
 
 markdown: kramdown
 highlighter: rouge
-
-locale: "en-US"
+locale: en-US
 
 author:
-name: "Andrés Ponce"
-bio: "Systems Designer, Technologist and Entrepreneur working across AI, digital infrastructure, creative technology and civic innovation."
+  name: "Andrés Ponce"
+  bio: "Systems Designer, Technologist and Entrepreneur working across AI, digital infrastructure, creative technology and civic innovation."
